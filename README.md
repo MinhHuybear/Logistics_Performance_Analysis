@@ -48,10 +48,6 @@ Key analyses performed:
 - Performance by region 
 
 
-📌 Key finding:
-> Logistics performance is strongly influenced by **shipping mode, distance, and operational region**, consistent with logistics research emphasizing timeliness and tracking efficiency :contentReference[oaicite:0]{index=0}
-
----
 
 ## 📊 Dashboard (Excel)
 An interactive Excel dashboard was developed to visualize key logistics metrics:
