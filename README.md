@@ -75,4 +75,4 @@ An interactive Excel dashboard was developed to visualize key logistics metrics:
 ---
 
 ## 📂 Open the Excel dashboard
-dashboard/Logistics_Dashboard.xlsx
+dashboard excel/Logistics_Dashboard.xlsx
