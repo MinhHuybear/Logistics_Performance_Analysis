@@ -1,5 +1,11 @@
 # 📦 Logistics Performance Analysis
 
+# FedEx Logistics Analyst Dashboard
+
+![Dashboard](images/dashboard.png)
+
+
+
 ## 📌 Project Overview
 This project analyzes logistics performance using data analytics and visualization techniques, with a focus on identifying key factors that impact delivery efficiency, cost, and service quality.
 
